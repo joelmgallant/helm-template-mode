@@ -34,7 +34,7 @@
 
 (defvar helm-template-braces-face 'helm-template-braces-face "Face name to use for braces.")
 (defface helm-template-braces-face
-  '((t :foreground "dark red" :weight bold))
+  '((t :foreground "light purple" :weight bold))
   "Face for the braces text"
   :group 'foo-faces)
 
